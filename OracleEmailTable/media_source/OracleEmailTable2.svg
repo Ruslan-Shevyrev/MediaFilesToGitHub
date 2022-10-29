@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="OracleEmailTabel4.svg"
+   sodipodi:docname="OracleEmailTable2.svg"
    inkscape:export-filename="C:\Users\Администратор\Desktop\OracleEmailTabel1.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -99,7 +99,7 @@
        height="170.68205"
        x="5.1589713"
        y="5.1589713"
-       inkscape:export-filename="C:\Users\Администратор\Desktop\OracleEmailTabel4.png"
+       inkscape:export-filename="C:\Users\Администратор\Desktop\OracleEmailTabel2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
@@ -168,12 +168,15 @@
        style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="48.152229"
        y="128.65097"
-       id="text16308"><tspan
+       id="text16308"
+       inkscape:export-filename="C:\Users\Администратор\Desktop\OracleEmailTable2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan16306"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.264583"
          x="48.152229"
-         y="128.65097">Email Tabel</tspan></text>
+         y="128.65097">Email Table</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -186,12 +189,12 @@
          x="81.969055"
          y="158.79207">Oracle</tspan></text>
     <rect
-       style="fill:#787878;fill-opacity:1;stroke:#787878;stroke-width:2.84451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#787878;fill-opacity:1;stroke:#787878;stroke-width:2.40526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect2014"
-       width="37.798492"
-       height="6.198349"
-       x="79.896568"
-       y="65.524971" />
+       width="25.237736"
+       height="6.6375942"
+       x="79.676949"
+       y="65.305351" />
     <path
        sodipodi:type="star"
        style="fill:#787878;fill-opacity:1;stroke:#787878;stroke-width:18.8976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -206,7 +209,7 @@
        sodipodi:arg2="3.1250924"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       transform="matrix(0.26458333,0,0,0.26458333,-50.330721,39.736065)"
+       transform="matrix(0.26458333,0,0,0.26458333,-63.330721,39.736065)"
        inkscape:transform-center-x="-1.8378691"
        inkscape:transform-center-y="0.062440573"
        d="m 636.27973,133.36868 -0.81752,-49.541258 43.31275,24.062638 z" />
